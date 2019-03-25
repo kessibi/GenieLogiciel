@@ -13,10 +13,10 @@ Il est d'abord nécessaire de *comprendre le contexte*, en utilisant toutes les 
 La principale source d'information est le client, auquel il faut poser toute question utile, en n'hésitant pas à approfondir :
 certains éléments vitaux sont parfois tellement évidents/implicites pour le client qu'il ne pense pas à les mentionner.
 
-Ensuite, mettre en perspective les besoins exprimés par avec le contexte permet de redéfinir ou valider les besoins *réels*.
+Ensuite, mettre en perspective les besoins exprimés par le contexte permet de redéfinir ou valider les besoins *réels*.
 Ces besoins réels devraient être ordonnés par degré d'importance et peuvent être regroupés par thèmes.
 
-À cette phase sont aussi établies les différents paramètres de conception,
+À cette phase sont aussi établis les différents paramètres de conception,
 et en particulier les *contraintes* qui peuvent empêcher d'atteindre toute ou partie des objectifs de départ.
 Les contraintes techniques ou économiques ne sont pas les seules à considérer ; certains domaines sont aussi touchés
 par des contraintes légales, sociales, environnementales, et ainsi de suite.
@@ -116,7 +116,7 @@ la conception apporte les solutions.
 C'est le travail de la <<roles_moe,MOE>>.
 
 Comme toute documentation, elle peut être raffinée de plus en plus, par exemple
-en un documents de conception préliminaire/architecturale, puis détaillée.
+en un document de conception préliminaire/architecturale, puis détaillée.
 
 [[lifecycle_implementation]]
 === Implémentation / Développement
@@ -302,7 +302,7 @@ et de conception que la nouveauté entraîne.
 === En "V"
 
 Ce modèle linéaire tente de mettre en évidence la *complémentarité* entre certaines phases.
-Chaque phase d'étude et d'analyse est *couplée* avec un phase de tests qui la valide.
+Chaque phase d'étude et d'analyse est *couplée* avec une phase de tests qui la valide.
 
 image::v.png[caption="Figure 02:", title="Cycle en V", alt="Cycle en V"]
 
@@ -422,7 +422,7 @@ En général, c'est le délai accordé au projet qui décide du nombre d'itérat
 ==== Inconvénients
 
 * Tentation d'abréger le processus et de se contenter d'une solution incomplète.
-* Peu structuré, donc impossible à appliquer tel quel à grand échelle.
+* Peu structuré, donc impossible à appliquer tel quel à grande échelle.
 * Faible visibilité pour les intervenants extérieurs.
 
 ==== Domaines d'application
@@ -619,7 +619,7 @@ Voici le workflow typique d'un développeur travaillant en TDD :
 ====== Refactoring
 
 La discipline de refactoring consiste à remanier/réécrire le code afin de l'améliorer.
-Refactorer un code consiste en particulier à accorder l'attention nécessaire eux points suivants :
+Refactorer un code consiste en particulier à accorder l'attention nécessaire aux points suivants :
 
 * Est-ce que que quelqu'un lisant le code dispose au même endroit de toute l'information nécessaire
   à la compréhension du code ?

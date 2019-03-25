@@ -60,7 +60,7 @@ et/ou le logiciel considéré, à un client ou à un développeur, par exemple.
 ** _Facilité d'exploitation_ (Operability) +
    Est-ce qu'il est facile pour l'utilisateur d'accomplir sa tâche ?
 ** _Protection contre les erreurs d'utilisation_ (User error protection) +
-   Comment réagit le logiciel si son utilisateur a un comportement inatendu ?
+   Comment réagit le logiciel si son utilisateur a un comportement inattendu ?
 ** _Accessibilité_ (Accessibility) +
    Est-ce que le logiciel est utilisable par des personnes en situation de handicap ?
 ** _Attrait_ (Attractiveness / user interface aesthetics) +
@@ -73,7 +73,7 @@ et/ou le logiciel considéré, à un client ou à un développeur, par exemple.
 ** _Comportement temporel_ (Time behaviour) +
    Est-ce que le temps de réponse du logiciel varie en fonction de son usage ?
 ** _Utilisation des ressources_ (Resource utilization) +
-   Est-ce que les resources (mémoire, processeur, ...) sont correctement utilisées par le logiciel ?
+   Est-ce que les ressources (mémoire, processeur, ...) sont correctement utilisées par le logiciel ?
 ** _Capacité_ (Capacity) +
    Est-ce que les ressources fournies par le logiciel le sont au bon moment et en quantité adéquate ?
 ** _Conformité_ (Efficiency compliance) +
